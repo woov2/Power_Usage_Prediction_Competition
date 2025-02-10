@@ -1,7 +1,5 @@
-# 데이콘 2023 전력사용량 예측 AI 경진대회
-2023-DACON-Power-Usage-Prediction-Competition
-
-<br/>
+# 2023 DACON Power Usage Prediction Competition
+### 전력사용량 예측 AI 개발
 
 ## 1. 배경 & 목적
 
